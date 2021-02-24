@@ -1,5 +1,2 @@
-# Secret
-
-
-
-[![Petit test](https://discord.gg/sWpDjNwdhu)
+# Easy-Bot
+Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de crée ton premier bot discord rapidement !
