@@ -16,3 +16,11 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 ⚙️ Version du Bot : `v0.1.0`
 
 🧭 Des questions ? Alors clique [ici](https://discord.gg/sWpDjNwdhu)
+
+# Fichier disponible
+
+📄 `Index.js`
+
+📄 `config.js`
+
+📄 `emojis.json`
