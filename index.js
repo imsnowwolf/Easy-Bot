@@ -5,7 +5,7 @@ const { TOKEN, PREFIX } = require('./config');
 const client = new Client(); 
 client.commands = new Collection();
 
-const loadCommands = (dir = "./commands/") => {
+((dir = "./commands/") => {
     fs.readdirSync(dir).forEach(dirs => {
     const commands = fs.readdirSync(`${dir}/${dirs}/`).filter(files => files.endsWith('.js'));
 
@@ -15,9 +15,7 @@ const loadCommands = (dir = "./commands/") => {
         }
     })
     console.log(`✅ ${client.commands.size} commandes chargées !`);
-}
-
-loadCommands()
+})();
 
 client.on("ready", () => { 
     console.log(`Logged in as ${client.user.tag}!`);
