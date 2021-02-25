@@ -25,6 +25,8 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 📁 `config.js` Il sert à stocké des informations sur le bot
 
-# Créateur du projet
+# Contributeur du projet
 
-👑 `snow-_-wolf#0001`
+👑 Créateur : `snow-_-wolf#0001`
+
+💼 Contributeur : `COCO150#0001`
