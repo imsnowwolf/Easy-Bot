@@ -14,7 +14,7 @@ const loadCommands = (dir = "./commands/") => {
             client.commands.set(fileName.help.name, fileName);
         }
     })
-    console.log(`✅ ${client.commands.size} commandes chargées avec succés !`);
+    console.log(`✅ ${client.commands.size} commandes chargées !`);
 }
 
 loadCommands()
