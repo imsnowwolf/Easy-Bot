@@ -5,7 +5,7 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 # Informations
 
-💻 Langage utilisée : `JavaScritp`
+💻 Langage utilisée : `JavaScript`
 
 📦 Api utilisée : `Discord.js`
 
