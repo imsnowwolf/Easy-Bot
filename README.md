@@ -14,3 +14,5 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 📦 Api utilisée : `Discord.js`
 
 ⚙️ Version du Bot : `v0.1.0`
+
+🧭 Des questions ? Alors clique [ici](https://discord.gg/sWpDjNwdhu)
