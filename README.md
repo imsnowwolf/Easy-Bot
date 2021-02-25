@@ -11,13 +11,13 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 💻 Langage utilisée : `Javascript`
 
-📦 Api utilisée : `Discord.js`
+📦 Librairie utilisée : `Discord.js`
 
 ⚙️ Version du Bot : `v0.1.0`
 
 🧭 Des questions ? Alors clique [ici](https://discord.gg/sWpDjNwdhu)
 
-📌 Avant de lancer votre bot vous devrez installez `Node.js` et faire `nmp i` dans votre terminal. Et ensuite vous devez faire `node index.js`.
+📌 Avant de lancer votre bot vous devrez installez `Node.js` et faire `npm i` dans votre terminal. Et ensuite vous devez faire `node index.js`.
 
 # Informartions sur les fichiers
 
