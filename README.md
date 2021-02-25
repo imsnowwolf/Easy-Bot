@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/Discord.js-JavaScript-yellow.svg)](https://discord.js.org/#/)
 
 # Easy-Bot
-Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de crée ton premier bot discord en JavaScript rapidement ! Et simplement !
+Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de crée ton premier bot discord en JavaScript rapidement ! Et simplement ! Si tu as la moindre question Rejoint mon serveur discord ! Tu auras juste à allez dans la catégorie `Dévelopement & coding`
 
 # Informations
 
