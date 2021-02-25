@@ -17,10 +17,10 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 🧭 Des questions ? Alors clique [ici](https://discord.gg/sWpDjNwdhu)
 
-# Fichier disponible
+# Fonctionalités déjà disponible
 
-📄 `Index.js`
+📌 La commande `!help` et la commande `!ping`
 
-📄 `config.js`
+# Créateur du projet
 
-📄 `emojis.json`
+👑 `snow-_-wolf#0001`
