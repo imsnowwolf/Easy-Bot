@@ -7,7 +7,7 @@
 # Easy-Bot
 Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de crée ton premier bot discord en JavaScript rapidement ! Et simplement ! Si tu as la moindre question Rejoint mon serveur discord ! Tu auras juste à aller [ici](https://discord.gg/sWpDjNwdhu)
 
-# Informations
+# Informations Général
 
 💻 Langage utilisée : `Javascript`
 
@@ -17,9 +17,13 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 🧭 Des questions ? Alors clique [ici](https://discord.gg/sWpDjNwdhu)
 
-# Fonctionalités déjà disponible
+📌 Avant de lancer votre bot vous devrez installez `Node.js` et faire `nmp i` dans votre terminal. Et ensuite faire `node index.js`.
 
-📌 La commande `!help` et la commande `!ping`
+# Informartions sur les fichiers
+
+📁 `Index.js` Il sert à faire démarré le bot
+
+📁 `config.js` Il sert à stocké des informations sur le bot
 
 # Créateur du projet
 
