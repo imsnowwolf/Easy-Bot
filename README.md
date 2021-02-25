@@ -8,7 +8,7 @@ Easy-Bot c'est quoi ? C'est tout simplement des fichier qui te permetterons de c
 
 # Informations
 
-💻 Langage utilisée : `JavaScript`
+💻 [![Langage utilisée](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://discord.js.org/#/)
 
 📦 Api utilisée : `Discord.js`
 
